@@ -1,0 +1,8 @@
+langgraph
+groq
+streamlit
+ipykernel
+python-dotenv
+langchain-groq
+langgraph
+langgraph-cli[inmem]
