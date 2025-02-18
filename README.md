@@ -15,4 +15,5 @@ An intelligent blog generation system that creates SEO-optimized content from ke
 - **Download Ready**: Direct Markdown download option
 - **State Management**: Maintains context through LangGraph and Streamlit session states
 - **Error Handling**: Robust error recovery and user feedback
-
+## Execute
+strimlit run blogpostLang.py
