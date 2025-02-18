@@ -16,4 +16,4 @@ An intelligent blog generation system that creates SEO-optimized content from ke
 - **State Management**: Maintains context through LangGraph and Streamlit session states
 - **Error Handling**: Robust error recovery and user feedback
 ## Execute
-strimlit run blogpostLang.py
+streamlit run blogpostLang.py
